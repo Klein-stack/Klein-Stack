@@ -1,8 +1,9 @@
 <h1 align="center">Hello there, I am Sarang</h1>
-<h3 align="left">Connect with me:</h3>
 <p>
   
 </p>
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.hackerrank.com/@xyz37656" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@xyz37656" height="30" width="40" /></a>
 </p>
